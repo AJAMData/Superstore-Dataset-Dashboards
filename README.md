@@ -1,4 +1,4 @@
-# Superstore Looker Dashboard
+# Superstore Looker (Not Studio) Dashboard
 
 
 ## Overview
