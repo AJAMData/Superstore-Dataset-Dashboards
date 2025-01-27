@@ -18,14 +18,14 @@ Testing has been non-existant due to the rush so I'm confident beyond the nice v
 
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-An opensource sample dataset providing office related shopping items data.
+An opensource sample dataset providing transactional retail shopping records.
 
 
 ## Features
 
 
 
-## 
+## Future Improvements
 
 
 
