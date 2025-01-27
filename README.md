@@ -7,7 +7,7 @@ Having recently left my role as a Senior Data Analyst at Feefo I was given permi
 
 The scope of this project is very limited due to the time constraint before losing access to the Looker instance. 
 
-To allow for a quick build the main purpose of this dashboard is to communicate my ability to utilise views, explores and Looks for the dashboard. For speed I have created a 'combined' dimension table, which although not correctly normalised allows me to demonstrate my ability to join views in the model. 
+To allow for a quick build the main purpose of this dashboard is to communicate my ability to utilise views, explores and Looks for functional dashboards. For speed I have created a 'combined' dimension table, which although not correctly normalised allows me to demonstrate my ability to join views in the model alongside a simple fact table. 
 
 I would normally ideate the build around a user persona. This would focus on the value to the end user and normally center around a strategic, operational, analytical or tactical design approach. In this instance, again, I have not had time. The visuals are a fairly random mix, chosen to display my skills as a technical developer and not designed from a product perspective. 
 
