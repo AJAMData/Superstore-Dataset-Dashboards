@@ -28,6 +28,9 @@ An opensource sample dataset providing transactional retail shopping records.
 ## Future Improvements
 
 
+## File Descriptions
+
+
 
 
 
