@@ -1,4 +1,4 @@
-# Superstore Looker (Not Studio) Dashboard
+# Superstore Dataset Looker (Not Studio) Dashboard
 
 
 ## Overview
