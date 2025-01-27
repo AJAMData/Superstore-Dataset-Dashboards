@@ -9,7 +9,7 @@ The scope of this project is very limited due to the time constraint before losi
 
 To allow for a quick build the main purpose of this dashboard is to communicate my ability to utilise views, explores and Looks for the dashboard. For speed I have created a 'combined' dimension table, which although not correctly normalised allows me to demonstrate the joins between views etc.
 
-I would normally ideate the build around a user persona. This would focus on the value to the end user and normally center around a strategic, operational, analytical or tactical design approach. In this instance, again, I have not had time. The visuals are a fairly random mix therefore, chosen to prove my skills as a technical developer and not designed from a product perspective. 
+I would normally ideate the build around a user persona. This would focus on the value to the end user and normally center around a strategic, operational, analytical or tactical design approach. In this instance, again, I have not had time. The visuals are a fairly random mix, chosen to display my skills as a technical developer and not designed from a product perspective. 
 
 Testing has been non-existant due to the rush so I'm confident beyond the nice visuals there will be errors that need correcting. 
 
