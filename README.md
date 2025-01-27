@@ -3,7 +3,7 @@
 
 ## Overview
 
-Having recently left my role as a Senior Data Analyst at Feefo I was given permission to use our Looker instance to create a portfolio dashboard project. Having used the Superstore dataset when learning Tableau I decided it would be a great time to revisit the dataset.
+Having recently left my role as a Senior Data Analyst at Feefo I was given permission to use our Looker instance to create a portfolio dashboard project. Having used the Superstore dataset when learning Tableau I decided to revisit it.
 
 The scope of this project is very limited due to the time constraint before losing access to the Looker instance. 
 
