@@ -3,7 +3,7 @@
 
 ## Overview
 
-Having recently left my role as a Senior Data Analyst at Feefo I was given permission to use our Looker instance to create a portfolio dashboard project. Having used the Superstore dataset when learning Tableau nearly 5 years ago I decided to revisit it. The priority here has been to evidence my undertsanding of the whole Looker ecosystem from modelling to visualisation. 
+Having recently left my role as a Senior Data Analyst at Feefo I was given permission to use our Looker instance to create a portfolio dashboard project. Having used the Superstore dataset when learning Tableau nearly 5 years ago I decided to revisit it. The priority here has been to evidence my understanding of the whole Looker ecosystem from modelling to visualisation. 
 
 The scope of this project is very limited, I only had a very short amount of time before losing access to the team's Looker instance. To allow for a quick build the main purpose of this dashboard is to communicate my ability to utilise views, explores and Looks for functional dashboards. For speed I have created a 'combined' dimension table, which although not correctly normalised allows me to demonstrate joining a dimension view in the model alongside a simple fact view. 
 
