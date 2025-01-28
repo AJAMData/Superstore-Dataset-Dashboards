@@ -37,6 +37,7 @@ An opensource sample dataset providing transactional retail shopping records.
 - Replace the bar charts with a single combined bar and line chart.
 - Add the subcategory product filter.
 - Visualise sales as the equivalent of turnover; a combination of profit and costs.
+- Split the combined dimension table into normalised customer, date, product and geographical dim tables. 
 
 
 
