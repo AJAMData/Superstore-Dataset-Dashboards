@@ -3,15 +3,15 @@
 
 ## Overview
 
-Having recently left my role as a Senior Data Analyst at Feefo I was given permission to use our Looker instance to create a portfolio dashboard project. Having used the Superstore dataset when learning Tableau nearly 5 years ago I decided to revisit it.
+Having recently left my role as a Senior Data Analyst at Feefo I was given permission to use our Looker instance to create a portfolio dashboard project. Having used the Superstore dataset when learning Tableau nearly 5 years ago I decided to revisit it. The priority here has been to evidence my undertsanding of the whole Looker ecosystem from modelling to visualisation. 
 
-The scope of this project is very limited, I only had a couple of days before losing access to the team's Looker instance.
-
-To allow for a quick build the main purpose of this dashboard is to communicate my ability to utilise views, explores and Looks for functional dashboards. For speed I have created a 'combined' dimension table, which although not correctly normalised allows me to demonstrate my ability to join views in the model alongside a simple fact table. 
+The scope of this project is very limited, I only had a couple of days before losing access to the team's Looker instance. To allow for a quick build the main purpose of this dashboard is to communicate my ability to utilise views, explores and Looks for functional dashboards. For speed I have created a 'combined' dimension table, which although not correctly normalised allows me to demonstrate my ability to join views in the model alongside a simple fact table. 
 
 I would normally ideate the build around a user persona. This would focus on the value to the end user and normally center around a strategic, operational, analytical or tactical design approach. In this instance, again, I have not had time. The visuals are a fairly random mix, chosen to display my skills as a technical developer and not designed from a product perspective. 
 
 Testing has been non-existant due to the rush so I'm confident beyond the nice visuals there will be errors that need correcting. 
+
+![Superstore Pic 1](https://github.com/user-attachments/assets/0185485e-a9fd-4da1-8642-d042a3aece11)
 
 
 ## Data Source
@@ -19,8 +19,6 @@ Testing has been non-existant due to the rush so I'm confident beyond the nice v
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 An opensource sample dataset providing transactional retail shopping records.
-
-TBC
 
 ## Features
 
