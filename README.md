@@ -33,7 +33,7 @@ An opensource sample dataset providing transactional retail shopping records.
 - Introduce an intial ideation stage and design the dashboard based on a hypothetical business need and with specific user personas in mind.
 - Complete QA, check all figures are accurate, functionality is correct and document accordingly. 
 - Adding a date switching filter between order and ship date as well as a date granularity filter to give access to a date hierarchy of Year > Quarter > Month > Week > Day.
-- Add exaplanatory inofrmation buttons.
+- Add exaplanatory information buttons.
 - Replace the bar charts with a single combined bar and line chart.
 - Add the subcategory product filter.
 - Visualise sales as the equivalent of turnover; a combination of profit and costs.
